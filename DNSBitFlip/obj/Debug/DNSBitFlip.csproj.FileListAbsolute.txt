@@ -1,0 +1,9 @@
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\bin\Debug\DNSBitFlip.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\bin\Debug\DNSBitFlip.exe
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\bin\Debug\DNSBitFlip.pdb
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\obj\Debug\DNSBitFlip.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\obj\Debug\DNSBitFlip.Form1.resources
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\obj\Debug\DNSBitFlip.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\obj\Debug\DNSBitFlip.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\obj\Debug\DNSBitFlip.exe
+c:\users\admin\documents\visual studio 2012\Projects\DNSBitFlip\DNSBitFlip\obj\Debug\DNSBitFlip.pdb
